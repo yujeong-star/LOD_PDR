@@ -16,7 +16,26 @@ The code has been tested with
 
 ## Usage
 
-### TBD
+### Download logs
+https://drive.google.com/drive/folders/13JRwnTY_cupN13-gwpXWlfIsLmIAIaRZ?usp=sharing
+
+### Teacher
+```
+# Train
+python main_train_0.py
+
+# Test
+python main_cond_0.py
+```
+
+### Student
+```
+# Train
+python main_train_student.py
+
+# Test
+python main_cond_student.py
+```
 
 ## Citation
 
